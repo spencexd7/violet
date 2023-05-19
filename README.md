@@ -11,7 +11,7 @@
 
     <a href="https://discordapp.com/oauth2/authorize?client_id=1103697636218904637&scope=bot+applications.commands&permissions=268561646"><strong>Invite me</strong></a>
 
-    <br /><br />
+    <br> <br>
 
     <a href="https://discord.gg/gpqMWg5PAY">Support Server</a>
 
