@@ -17,4 +17,7 @@
 
 </p>
 
+
+
+![Python](https://img.shields.io/badge/Python-3.10.8-red?style=for-the-badge)
 ![discord.py](https://img.shields.io/badge/discord.py-2.2.3-red?style=for-the-badge)
