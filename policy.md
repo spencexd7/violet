@@ -22,31 +22,21 @@ The bot may not be used:
 
 - To access or use the bot for any commercial purpose without the express written consent of the bot owner
 
-## Functionality of the Bot
 
-The bot provides a variety of functions and features, including but not limited to:
 
-- Moderation tools 
 
-- Information retrieval 
 
-- Utility tools 
 
--  Auto responder
 
-- Server Verification
 
-- Ai Chatbot
 
-- Downtime notifier
 
-- Ping on join
 
-- Boost notifier
 
-- And much more...
 
-The owner of the bot reserves the right to modify, add or remove features at any time without prior notice.
+
+
+
 
 ## Responsiblity
 
