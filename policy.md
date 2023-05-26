@@ -50,4 +50,4 @@ Users of the bot are responsible for their own actions and use of the bot. The o
 
 ## Contact Information
 
-For any questions or concerns regarding the use of the bot, please contact the bot owner at <owner email>.
+For any questions or concerns regarding the use of the bot, please contact the bot owner at bot's [support server](https://discord.gg/gpqMWg5PAY).
