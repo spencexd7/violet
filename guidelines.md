@@ -1,6 +1,6 @@
 
 
-# Fault Policy
+# Fault Policy / Guidelines
 
 ## Overview
 
