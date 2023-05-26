@@ -40,6 +40,10 @@ The bot provides a variety of functions and features, including but not limited 
 
 - Downtime notifier
 
+- Ping on join
+
+- Boost notifier
+
 - And much more...
 
 The owner of the bot reserves the right to modify, add or remove features at any time without prior notice.
