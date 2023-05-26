@@ -49,7 +49,7 @@ Utility commands are a set of functions that provide useful or informative featu
 
 ### Server Verification
 
-Verification is a feature that requires users to complete a verification challenge before being able to send direct messages to the Bot. The purpose of this function is to prevent spam or unwanted messages from reaching the Bot, while still allowing legitimate users to contact the Bot directly.
+Verification is a feature that requires users to complete a verification challenge before being able to access the server. The purpose of this function is to prevent spam or unwanted messages from reaching the server.
 
 ### Downtime Notifier
 
