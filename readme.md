@@ -49,23 +49,23 @@ Utility commands are a set of functions that provide useful or informative featu
 
 ### Server Verification
 
-Verification is a feature that requires users to complete a verification challenge before being able to access the server. The purpose of this function is to prevent spam or unwanted messages from reaching the server.
+Server verification is a feature that requires new members to complete a verification process before gaining access to the server. This process is designed to prevent unauthorized or malicious users from joining the server, and to ensure that all members are legitimate and authorized to access the server.
 
 ### Downtime Notifier
 
-Fault's downtime notifier monitors the status of a bot and notifies server if the bot goes down.
+Downtime notifier monitors the status of a bot and notifies if the bot goes down.
 
 ### Ping on Join
 
-Fault's ping on join feature automatically pings the user in a server channel when a new user joins the server.
+Ping on join feature automatically pings the user in a server channel when a new user joins the server.
 
 ### Auto Responder
 
-Fault's auto responder feature automatically responds to pre-set keywords or phrases in server messages.
+Ato responder feature automatically responds to pre-set keywords or phrases in server messages.
 
 ### Boost Notifier
 
-Fault's boost notifier feature notifies server when a server receives a boost.
+Boost notifier feature notifies server when a server receives a boost.
 
 ## Additional Resources
 
