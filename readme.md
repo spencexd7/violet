@@ -61,11 +61,15 @@ Ping on join feature automatically pings the user in a server channel when a new
 
 ### Auto Responder
 
-Ato responder feature automatically responds to pre-set keywords or phrases in server messages.
+Auto responder feature automatically responds to pre-set keywords or phrases in server messages.
 
 ### Boost Notifier
 
 Boost notifier feature notifies server when a server receives a boost.
+
+### Auto Moderation
+
+Automod features and tools in a Discord bot that are used to automatically moderate and manage user behavior in channels and servers.
 
 ## Additional Resources
 
