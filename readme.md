@@ -51,6 +51,10 @@ Utility commands are a set of functions that provide useful or informative featu
 
 Server verification is a feature that requires new members to complete a verification process before gaining access to the server. This process is designed to prevent unauthorized or malicious users from joining the server, and to ensure that all members are legitimate and authorized to access the server.
 
+### Image & Fun
+
+Image and fun are funtion that make users day with cool games and image commands.
+
 ### Downtime Notifier
 
 Downtime notifier monitors the status of a bot and notifies if the bot goes down.
