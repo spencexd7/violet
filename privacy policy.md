@@ -10,10 +10,7 @@ The Bot collects various types of information from users in order to provide its
 
 - User ID and username
 - Server information, including channels, roles and permissions
-- Chat logs and messages (temporary)
 - Usage statistics and analytics
-
-The Bot also collects non-personal information such as user feedback, bug reports, and chat logs to improve the Bot and related services.
 
 ## How We Use Your Information
 
