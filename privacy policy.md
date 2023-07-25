@@ -1,6 +1,6 @@
 
 
-# Fault Privacy Policy
+# Voilet Privacy Policy
 
 This privacy policy explains how we collect, use, and disclose information collected from users of the Fault bot and related services. By using the Bot, you consent to the practices described in this policy.
 
