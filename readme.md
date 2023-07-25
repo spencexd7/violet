@@ -1,16 +1,16 @@
-# Fault
+# Violet
 <p align="center">
 
    <!--project-->
 
 <p align="center">
 
-<img src="https://cdn.discordapp.com/avatars/1103697636218904637/dfb49ad48d04d712428d47eb233d4587.png?size=1024">
+<img src="https://media.discordapp.net/attachments/1122763856465367072/1133063860325200052/removebg.png">
 </p>
 
   
 <p align="center">
-   <a href="https://discordapp.com/oauth2/authorize?client_id=1103697636218904637&scope=bot+applications.commands&permissions=268561646"><strong>Invite me</strong></a>
+   <a href="https://discordapp.com/oauth2/authorize?client_id=1122334626455752867&scope=bot+applications.commands&permissions=268561646"><strong>Invite me</strong></a>
    <br> <br>
    <a href="https://discord.gg/gpqMWg5PAY">Support server</a> - <a href="https://discord.com/users/887973552958087168">Devloper</a>
    
@@ -33,7 +33,7 @@
 
 ## Overview
 
-Fault is a multifunctional bot designed to perform a range of unique & cool functions on discord.
+Violet is a multifunctional bot designed to perform a range of unique & cool functions on discord.
 
 ## Functions
 
@@ -77,11 +77,11 @@ Automod features and tools in a Discord bot that are used to automatically moder
 
 ## Additional Resources
 
-- [Bot Guidelines](https://github.com/spencexd7/fault/blob/main/guidelines.md): Guidelines for using Fault.
+- [Bot Guidelines](https://github.com/spencexd7/violet/blob/main/guidelines.md): Guidelines for using Fault.
 
-- [Privacy Policy](https://github.com/spencexd7/fault/blob/main/privacy%20policy.md): Our privacy policy for using Fault.
+- [Privacy Policy](https://github.com/spencexd7/violet/blob/main/privacy%20policy.md): Our privacy policy for using Fault.
 
-- [Support server](https://discord.gg/gpqMWg5PAY): Join our discord server to get help with Fault and stay up to date on the latest developments.
+- [Support server](https://discord.gg/gpqMWg5PAY): Join our discord server to get help with Violet and stay up to date on the latest developments.
 
 - [Developer](https://discord.com/users/887973552958087168): Connect with the bot developer and get advice on bot development.
 
